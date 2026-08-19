@@ -1,0 +1,96 @@
+{
+  "phase_transition": [
+    {
+      "ratio": 1.0,
+      "n_clauses": 20,
+      "sat_probability": 1.0,
+      "avg_time": 0.00024193286895751953
+    },
+    {
+      "ratio": 2.0,
+      "n_clauses": 40,
+      "sat_probability": 1.0,
+      "avg_time": 0.00043361663818359376
+    },
+    {
+      "ratio": 3.0,
+      "n_clauses": 60,
+      "sat_probability": 1.0,
+      "avg_time": 0.000295562744140625
+    },
+    {
+      "ratio": 4.0,
+      "n_clauses": 80,
+      "sat_probability": 0.86,
+      "avg_time": 0.0003304767608642578
+    },
+    {
+      "ratio": 4.267,
+      "n_clauses": 85,
+      "sat_probability": 0.8,
+      "avg_time": 0.00033006668090820315
+    },
+    {
+      "ratio": 4.5,
+      "n_clauses": 90,
+      "sat_probability": 0.48,
+      "avg_time": 0.0003302431106567383
+    },
+    {
+      "ratio": 5.0,
+      "n_clauses": 100,
+      "sat_probability": 0.3,
+      "avg_time": 0.0003474235534667969
+    },
+    {
+      "ratio": 6.0,
+      "n_clauses": 120,
+      "sat_probability": 0.02,
+      "avg_time": 0.00036170482635498045
+    },
+    {
+      "ratio": 7.0,
+      "n_clauses": 140,
+      "sat_probability": 0.0,
+      "avg_time": 0.0005971097946166992
+    },
+    {
+      "ratio": 8.0,
+      "n_clauses": 160,
+      "sat_probability": 0.0,
+      "avg_time": 0.0004889345169067382
+    }
+  ],
+  "algebraic_structure": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "symmetry_breaking": {
+    "symmetric": {
+      "result": "sat",
+      "time": 0.00020599365234375
+    },
+    "asymmetric": {
+      "result": "sat",
+      "time": 0.00020456314086914062
+    }
+  }
+}

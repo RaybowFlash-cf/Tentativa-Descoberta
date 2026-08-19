@@ -1,0 +1,38 @@
+{
+  "ideal_structure": {
+    "n_vars": 6,
+    "n_clauses": 12,
+    "n_polynomials": 18,
+    "groebner_size": 1,
+    "elapsed": 0.010291099548339844
+  },
+  "equivalence": {
+    "solutions": []
+  },
+  "algebraic_bridge": [
+    {
+      "n_clauses": 6,
+      "base_size": 1,
+      "max_degree": 0,
+      "elapsed": 0.0026590824127197266
+    },
+    {
+      "n_clauses": 8,
+      "base_size": 1,
+      "max_degree": 0,
+      "elapsed": 0.002615213394165039
+    },
+    {
+      "n_clauses": 10,
+      "base_size": 1,
+      "max_degree": 0,
+      "elapsed": 0.00347900390625
+    },
+    {
+      "n_clauses": 12,
+      "base_size": 1,
+      "max_degree": 0,
+      "elapsed": 0.00429844856262207
+    }
+  ]
+}
